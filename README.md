@@ -1,2 +1,2 @@
-# test
-Class stuff
+# Web Sites
+Coursework for MSU Denver CIS Department. Professional repository.
